@@ -1,0 +1,78 @@
+.pace-running .wrap {
+    display: none;
+}
+
+.cart_box {
+    overflow-y: scroll;
+    margin: 20% 14% 5.5% 14%;
+    height: 555px;
+    border: solid 1.28px;
+}
+
+.box_info {
+    border: double;
+    margin: 10px;
+    height: 430px;
+}
+
+section.float_box {
+    padding-right: 4%;
+}
+
+section.subtotal_box {
+    padding-left: 11%;
+}
+
+.cart_float {
+    float: right;
+    position: relative;
+}
+
+.subtotal {
+    position: absolute;
+    line-height: 42px;
+    font-size: 28px;
+}
+
+.edrem_box {
+    display: inline-block;
+    width: 120px;
+    height: 29px;
+    text-align: center;
+    text-decoration: none;
+    line-height: 26px;
+    border: 1.36px solid #333;
+    color: #333;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 24px 28px 15px;
+    letter-spacing: 1.08px;
+    font-family: cursive;
+}
+
+li {
+    line-height: 50px;
+    letter-spacing: 1.08px;
+}
+
+li.cart_font {
+    font-size: 28px;
+}
+
+.img_box {
+    float: left;
+}
+
+.img_min {
+    width: 75%;
+}
+
+.edit_rem {
+    margin-top: 9%;
+}
+
+.ul_box {
+    width: 550px;
+    margin: 0 auto;
+    padding-top: 10%;
+}

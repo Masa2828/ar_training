@@ -1,0 +1,104 @@
+.box {
+    float: right;
+    position: relative;
+    margin-right: 21%;
+}
+
+section.box_middle {
+    margin-left: 12%;
+}
+
+input#background {
+    color: #eee;
+    background: #333;
+}
+
+label :hover {
+    opacity: 0.88;
+}
+
+.font_info {
+    font-size: 33px;
+    font-family: fantasy;
+    margin-left: 30px;
+}
+
+article.top_middle {
+    width: 900px;
+    margin: 0 auto;
+}
+
+ul li {
+    text-decoration: none;
+    letter-spacing: 1.08px;
+}
+
+.buy_box {
+    height: 500px;
+}
+
+section.form {
+    height: 200px;
+    margin: 0px 30%;
+}
+
+.button {
+    display: inline-block;
+    width: 200px;
+    height: 54px;
+    text-align: center;
+    text-decoration: none;
+    line-height: 54px;
+    outline: none;
+    border: 2px solid #333;
+    color: #333;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin-left: 28px;
+    margin-top: 24px;
+    font-size: 18px;
+    letter-spacing: 1.08px;
+    font-family: cursive;
+}
+
+p {
+    letter-spacing: 1.08px;
+    line-height: 50px;
+    font-family: cursive;
+    font-size: 22px;
+}
+
+input[type="number"] {
+    border: solid 2px #333;
+    width: 55px;
+    height: 23px;
+    font-size: 22px;
+}
+
+/* erro display */
+span.error_m {
+    font-size: 15px;
+    font-weight: normal;
+    color: #FF4040;
+    display: block;
+    margin: 0;
+}
+
+.lavel_box {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.form_box {
+    width: 400px;
+    margin: 0 auto;
+}
+
+section.img_section {
+    width: 1200px;
+}
+
+article.top_middle_detal {
+    margin: 0 auto;
+    width: 1060px;
+}
