@@ -102,3 +102,7 @@ article.top_middle_detal {
     margin: 0 auto;
     width: 1060px;
 }
+
+li.icon {
+    padding-left: 15px;
+}
