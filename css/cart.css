@@ -32,6 +32,8 @@ section.subtotal_box {
     position: absolute;
     line-height: 42px;
     font-size: 28px;
+    font-family: cursive;
+    letter-spacing: 1.08px;
 }
 
 .edrem_box {
